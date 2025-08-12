@@ -503,7 +503,7 @@ else:
 st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
 st.markdown("""
 <div class="footer">
-    <h2 style="margin-bottom: 1rem; position: relative; z-index: 1;">Made with ❤️ by Asjad Raza</h2>
+    <h2 style="margin-bottom: 1rem; position: relative; z-index: 1;">Made with ❤️ by Syed Asjad Raza</h2>
     <p style="font-size: 1.2rem; margin: 1rem 0; position: relative; z-index: 1;">
         BSCS @ FAST NUCES – Passionate about AI 🤖, Code 💻, and Creativity 🎨
     </p>
